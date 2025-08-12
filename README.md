@@ -1,4 +1,4 @@
-# Hi there, I'm [Simba] 👋
+# Hi there, I'm Simba 👋
 
 I'm a passionate software engineer with **7+ years of experience** building high-performance, user-centric web applications and cutting-edge AI-powered solutions. I specialize in frontend and backend development, with a strong focus on **Generative AI** and **Large Language Models (LLMs)** to create intelligent, next-gen applications.
 
