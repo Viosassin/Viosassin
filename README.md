@@ -1,4 +1,4 @@
-# Hi there, I'm Simba 👋
+# Hi there!👋
 
 I'm a passionate software engineer with **7+ years of experience** building high-performance, user-centric web applications and cutting-edge AI-powered solutions. I specialize in frontend and backend development, with a strong focus on **Generative AI** and **Large Language Models (LLMs)** to create intelligent, next-gen applications.
 
@@ -10,7 +10,7 @@ I'm a passionate software engineer with **7+ years of experience** building high
 - 🌱 Deeply exploring Generative AI, LLMs, and machine learning frameworks to push the boundaries of automation and creativity
 - 👯 Open to collaborating on open-source projects in AI, web development, and cloud infrastructure
 - 💬 Ask me about AI-powered applications, frontend architecture, accessibility, and web performance optimization
-- 📫 How to reach me: [your email] | [LinkedIn](your-linkedin) | [Twitter](your-twitter)
+- 📫 How to reach me: [hello.simba333@gmail.com]
 - ⚡ Fun fact: I love blending AI and software engineering to solve complex problems and deliver seamless user experiences
 
 ---
