@@ -6,7 +6,7 @@ I'm a passionate software engineer with **7+ years of experience** building high
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [your current project or company], integrating AI-driven features with scalable web technologies
+- 🔭 Currently working on the projects, integrating AI-driven features with scalable web technologies
 - 👯 Open to collaborating on open-source projects in AI, web development, and cloud infrastructure
 - 💬 Ask me about AI-powered applications, frontend architecture, accessibility, and web performance optimization
 - 📫 How to reach me: [yabner1111@gmail.com]
