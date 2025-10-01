@@ -9,7 +9,6 @@ I'm a passionate software engineer with **7+ years of experience** building high
 - 🔭 Currently working on the projects, integrating AI-driven features with scalable web technologies
 - 👯 Open to collaborating on open-source projects in AI, web development, and cloud infrastructure
 - 💬 Ask me about AI-powered applications, frontend architecture, accessibility, and web performance optimization
-- 📫 How to reach me: [yabner1111@gmail.com]
 - ⚡ Fun fact: I love blending AI and software engineering to solve complex problems and deliver seamless user experiences
 
 ---
